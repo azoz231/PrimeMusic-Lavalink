@@ -1,10 +1,10 @@
 
 
 module.exports = {
-  TOKEN: "",
+  TOKEN: "MTM0OTc1ODY5MzgxMzY0OTQ5OQ.Gip464.4eLj2YtbIjjE4tbAtPyZgIpLI_bi0oRP9SO1Eo",
   language: "en",
   ownerID: ["1004206704994566164", ""], 
-  mongodbUri : "",
+  mongodbUri : "mongodb+srv://canadaqpq:<db_password>@cluster0.hdpm3ar.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
   spotifyClientId : "",
   spotifyClientSecret : "",
   setupFilePath: './commands/setup.json',
